@@ -12,3 +12,6 @@ Esta es la historia de Fredy Vega
  
  Mañana nos enfocaremos en su vida laboral
 >>>>>>> cabecera
+
+ahora Sandra esta modificando este archivo
+ahora vamos a ver como se unen
