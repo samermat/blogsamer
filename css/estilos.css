@@ -34,5 +34,6 @@ cabecera #tagline
 }
 container h1
 {
-    font-size: 20px;
+    color: blueviolet;
+    font-size: 25px;
 }
